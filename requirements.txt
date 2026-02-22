@@ -1,2 +1,2 @@
-streamlit cryptography>=42.0.0
-python-3.11
+streamlit cryptography==41.0.7
+python-3.10
