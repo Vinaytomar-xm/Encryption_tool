@@ -8,7 +8,7 @@ This tool allows users to encrypt plain text into secure cipher text and decrypt
 ## 🚀 Live Demo
 
 👉 **Live App:**  
-https://encriptiontool.streamlit-app-link-here  
+https://encriptiontool.streamlit-app/ 
 
 ---
 
